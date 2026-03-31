@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:108:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:164:6:StartDisplay_Task	16	static
+../Core/Src/freertos.c:218:6:StartAudio_Task	16	static
+../Core/Src/freertos.c:237:6:StartFFT_Task	48	static
